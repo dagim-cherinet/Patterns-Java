@@ -1,5 +1,7 @@
 # Different Patterns in Java
 
+## Patterns found in the 'src/com/dagim' folder of the project
+
 #### Pattern 1 Right Angle Triangle
 ![Screenshot (371)](https://user-images.githubusercontent.com/80765887/184480679-69fb09ba-4540-4f63-8c9d-7355e8a8fc8f.png)
 
