@@ -1,13 +1,13 @@
 # Different Patterns in Java
 
 #### Pattern 1 Right Angle Triangle
-![Screenshot (371)](https://user-images.githubusercontent.com/80765887/184480679-69fb09ba-4540-4f63-8c9d-7355e8a8fc8f.png | width=100)
+![Screenshot (371)](https://user-images.githubusercontent.com/80765887/184480679-69fb09ba-4540-4f63-8c9d-7355e8a8fc8f.png)
 
 #### Pattern 2 Left Right Angle Triangle
-![Screenshot (372)](https://user-images.githubusercontent.com/80765887/184480713-833afb28-1462-4f82-a4cb-e1cb3416aa04.png | width=100)
+![Screenshot (372)](https://user-images.githubusercontent.com/80765887/184480713-833afb28-1462-4f82-a4cb-e1cb3416aa04.png)
 
 #### Pattern 3 Pyramid Pattern
-![Screenshot (378)](https://user-images.githubusercontent.com/80765887/184480857-281d1bff-8976-4cb9-8b06-f7707fdd7a18.png | width=100)
+![Screenshot (378)](https://user-images.githubusercontent.com/80765887/184480857-281d1bff-8976-4cb9-8b06-f7707fdd7a18.png)
 
 #### Pattern 4 Diamond Pattern
 ![Screenshot (374)](https://user-images.githubusercontent.com/80765887/184480772-cf81ac8b-a4d0-44c0-b65c-0963c63d3711.png)
