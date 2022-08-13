@@ -8,9 +8,9 @@ public class DiamondWithOddRows {
         for (int row = 1; row <= 2*n -1 ; row++) {
             int colCount = row <= n ? row  : 2*n - row;
             for (int spaces = 1; spaces <= n - colCount ; spaces++) {
-                System.out.print(" ");
+                System.out.print("  ");
             }
-            for (int col = 1; col <= colCount ; col++) {
+            for (int col = 1; col <= (2*(colCount-1)+ 1) ; col++) {
                 System.out.print("* ");
             }
             System.out.println();
