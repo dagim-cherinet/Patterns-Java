@@ -2,7 +2,7 @@ package com.dagim;
 
 public class Pattern_3_PyramidPattern {
     public static void main(String[] args) {
-        pyramidPattern(5);
+        pyramidPattern(7);
     }
     static void pyramidPattern(int n){
         for (int row = 1; row <= n ; row++) {
